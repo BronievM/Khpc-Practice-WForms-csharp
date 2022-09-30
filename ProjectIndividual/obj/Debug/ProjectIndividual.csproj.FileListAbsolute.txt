@@ -1,0 +1,14 @@
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.csproj.AssemblyReference.cache
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.csproj.SuggestedBindingRedirects.cache
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.Form1.resources
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.Form2.resources
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.Properties.Resources.resources
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.csproj.GenerateResource.cache
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.csproj.CoreCompileInputs.cache
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\bin\Debug\ProjectIndividual.exe.config
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\bin\Debug\ProjectIndividual.exe
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\bin\Debug\ProjectIndividual.pdb
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.exe
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.pdb
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.Form3.resources
+D:\Файлопомойка\ХПК\C#\Практика\ProjectIndividual\obj\Debug\ProjectIndividual.Picture_.resources
