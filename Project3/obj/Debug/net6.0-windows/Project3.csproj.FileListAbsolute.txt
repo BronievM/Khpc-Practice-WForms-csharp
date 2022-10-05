@@ -1,0 +1,17 @@
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.csproj.AssemblyReference.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.Form1.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.csproj.GenerateResource.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfoInputs.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfo.cs
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.csproj.CoreCompileInputs.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3\bin\Debug\net6.0-windows\Project3.exe
+D:\Файлопомойка\ХПК\C#\Практика\Project3\bin\Debug\net6.0-windows\Project3.deps.json
+D:\Файлопомойка\ХПК\C#\Практика\Project3\bin\Debug\net6.0-windows\Project3.runtimeconfig.json
+D:\Файлопомойка\ХПК\C#\Практика\Project3\bin\Debug\net6.0-windows\Project3.dll
+D:\Файлопомойка\ХПК\C#\Практика\Project3\bin\Debug\net6.0-windows\Project3.pdb
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.dll
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\refint\Project3.dll
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.pdb
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\Project3.genruntimeconfig.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3\obj\Debug\net6.0-windows\ref\Project3.dll
