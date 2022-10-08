@@ -1,0 +1,11 @@
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\bin\Debug\Project3_1.exe.config
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\bin\Debug\Project3_1.exe
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\bin\Debug\Project3_1.pdb
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.csproj.AssemblyReference.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.csproj.SuggestedBindingRedirects.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.Form1.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.Properties.Resources.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.csproj.GenerateResource.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.csproj.CoreCompileInputs.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.exe
+D:\Файлопомойка\ХПК\C#\Практика\Project3_1\obj\Debug\Project3_1.pdb
