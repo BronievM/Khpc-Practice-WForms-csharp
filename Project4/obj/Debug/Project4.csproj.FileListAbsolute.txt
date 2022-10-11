@@ -1,0 +1,12 @@
+D:\Файлопомойка\ХПК\C#\Практика\Project4\bin\Debug\Project4.exe.config
+D:\Файлопомойка\ХПК\C#\Практика\Project4\bin\Debug\Project4.exe
+D:\Файлопомойка\ХПК\C#\Практика\Project4\bin\Debug\Project4.pdb
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.csproj.SuggestedBindingRedirects.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.Form1.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.Form2.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.Properties.Resources.resources
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.exe
+D:\Файлопомойка\ХПК\C#\Практика\Project4\obj\Debug\Project4.pdb
