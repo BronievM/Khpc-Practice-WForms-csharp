@@ -1,0 +1,9 @@
+# Створити файл .gitignore з базовим вмістом для VS
+@"
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+"@ | Out-File -FilePath .gitignore -Encoding utf8
